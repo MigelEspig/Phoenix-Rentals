@@ -27,7 +27,8 @@ body{
 nav ul {
   display: flex; /* Alinha os itens (li) em linha */
   list-style: none; /* Remove bolinhas da lista */
-  margin-left: 750px;
+    padding: 23px;
+    margin-left: 800px;
 
 
 
